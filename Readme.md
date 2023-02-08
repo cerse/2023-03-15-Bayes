@@ -36,11 +36,16 @@ This is a provisional timetable. **Timetable to be finalised**
 
 |Time  | Activity      |
 |------| ------|
-|15:00 | Welcome - **Someone** |
-|15:10 | **List of talks** |
-|15:50 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
-|16:00 | Coffee and biscuits **Optional** |
+|15:00 | **Intro: CERSE aims and objectives**, Mario Antonioletti (EPCC/SSI, UoE) |
+|15:10 | TBD someone from EPCC/SSI |
+|15:20 | **Research Services**, Mike Wallis (Research Services, ISG, UoE) |
+|15:30 | **Smart Data Foundry**,  TBD (Smart Data Foundry) |
+|15:40 | **Automated Systematic Reviews**, Andrew Horne (EDINA, ISG, UoE) |
+|15:50 | Close/intro to the ice breaker |
+|15:55 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
+|16:05 | Coffee and biscuits - Networking session |
 |16:45 | Close |
+
 
 In order to get the correct numbers for catering please [register](https://www.eventbrite.co.uk/manage/events/528334230907) for this event - limited to a max of 50 attendees. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
