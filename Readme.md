@@ -42,7 +42,7 @@ This is a provisional timetable. **Timetable to be finalised**
 |15:30 | **Smart Data Foundry**,  TBD (Smart Data Foundry) |
 |15:40 | **Automated Systematic Reviews**, Andrew Horne (EDINA, ISG, UoE) |
 |15:50 | Close/intro to the ice breaker |
-|15:55 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
+|15:55 | Ice breaking session (opportunity to get to know your fellow attendees) |
 |16:05 | Coffee and biscuits - Networking session |
 |16:45 | Close |
 
