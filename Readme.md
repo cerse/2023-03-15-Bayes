@@ -47,5 +47,5 @@ This is a provisional timetable. **Timetable to be finalised**
 |16:45 | Close |
 
 
-In order to get the correct numbers for catering please [register](https://www.eventbrite.co.uk/manage/events/528334230907) for this event - limited to a max of 50 attendees. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
+In order to get the correct numbers for catering please [register](https://www.eventbrite.co.uk/e/cerse-at-the-bayes-tickets-528334230907) for this event - limited to a max of 50 attendees. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
