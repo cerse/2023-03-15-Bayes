@@ -37,7 +37,7 @@ This is a provisional timetable. **Timetable to be finalised**
 |Time  | Activity      |
 |------| ------|
 |15:00 | **Intro: CERSE aims and objectives**, Mario Antonioletti (EPCC/SSI, UoE) |
-|15:10 | TBD someone from EPCC/SSI |
+|15:10 | **Research Software Engineering at EPCC**, Andy Turner (EPCC, UoE) |
 |15:20 | **Research Services**, Mike Wallis (Research Services, ISG, UoE) |
 |15:30 | **Smart Data Foundry**,  TBD (Smart Data Foundry) |
 |15:40 | **Automated Systematic Reviews**, Andrew Horne (EDINA, ISG, UoE) |
