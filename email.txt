@@ -1,0 +1,48 @@
+Hi,
+    Apology if you get this message more than once via different
+channels.
+
+We are going to try to restart the the Community of Edinburgh
+Research Software Engineers (CERSE) after having stalled near the
+start of the pandemic. The idea will be to alternate between physical
+face-to-face meetings with changing venues across the university
+of Edinburgh and virtual meetings on a monthly basis.  Thus the
+seventh CERSE meeting and first after the pandemic will be held on
+the 15/03/23 starting at 3pm in G.03, Bayes Centre,47 Potterrow,
+Edinburgh EH8 9BT.  If anyone would like to volunteer a venue for
+a future meeting, would like to be involved in the organisation of
+such meetings or would like to speak then please get in touch.
+
+Anyone who is involved with, or interested in, the development,
+use, support or management of research software is very welcome to
+attend.
+
+We are co-hosting the seventh CERSE meeting with Digital Research
+Services. The following talks and activities have been scheduled: 
+
+o 15:00 - **Intro: CERSE aims and objectives**, Mario Antonioletti (EPCC/SSI, UoE)  
+o 15:10 - **Research Software Engineering at EPCC**, Andy Turner (EPCC, UoE)        
+o 15:20 - **Research Services**, Mike Wallis (Research Services, ISG, UoE)          
+o 15:30 - **Smart Data Foundry**,  Mike Spencer (Smart Data Foundry)                
+o 15:40 - **Automated Systematic Reviews**, Andrew Horne (EDINA, ISG, UoE)          
+o 15:50 - Close/intro to the ice breaker                                            
+o 15:55 - Ice breaking session (opportunity to get to know your fellow attendees)   
+o 16:05 - Coffee and biscuits - Networking session                                  
+o 16:45 - Close                                                                     
+
+Some refreshments will provided with time to meet new people will
+at the end of the meeting.  With thanks to the digital research
+services for sponsoring the event.
+
+To get a number for catering requirements please register. Also
+note that we are limited to 50 attendees due to venue constraints.
+If you know you are not going to be able to attend please cancel
+your order so someone else can attend. Link:
+
+https://www.eventbrite.co.uk/e/cerse-at-the-bayes-tickets-528334230907
+
+Further information: https://cerse.github.io/2023-03-15-Bayes/
+
+Please circulate to anyone in the Edinburgh area who you think may be
+interested.
+
