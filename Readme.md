@@ -42,7 +42,7 @@ Timetable for the day - unfortunately this coincided with a strike day so there 
 |15:10 | **Research Services**, Mike Wallis (Research Services, ISG, UoE) |
 |15:20 | **Smart Data Foundry**,  Mike Spencer (Smart Data Foundry) (**POSTPONED**) |
 |15:30 | **Automated Systematic Reviews**, Andrew Horne (EDINA, ISG, UoE) |
-|15:40 | **Research Software Engineering at EPCC**, Andy Turner change of speaker to Mario Antonioletti (EPCC, UoE) |
+|15:40 | **Research Software Engineering at EPCC**, Andy Turner change of speaker to Mario Antonioletti (EPCC, UoE) ([pdf](Slides/epcc-cerse.pdf)) |
 |15:50 | Close/intro to the ice breaker |
 |15:55 | Ice breaking session (opportunity to get to know your fellow attendees) |
 |16:05 | Coffee and biscuits - Networking session |
