@@ -39,7 +39,7 @@ Timetable for the day - unfortunately this coincided with a strike day so there 
 |Time  | Activity      |
 |------| ------|
 |15:00 | **Intro: CERSE aims and objectives**, Mario Antonioletti (EPCC/SSI, UoE) ([pptx](Slides/CERSE7.pptx)) ([pdf](Slides/CERSE7.pdf)) |
-|15:10 | **Research Services**, Mike Wallis (Research Services, ISG, UoE) |
+|15:10 | **Research Services**, Mike Wallis (Research Services, ISG, UoE) ([pdf](Slides/Introduction-to-RSS-for-CERSE-150323.pdf)) |
 |15:20 | **Smart Data Foundry**,  Mike Spencer (Smart Data Foundry) (**POSTPONED**) |
 |15:30 | **Automated Systematic Reviews**, Andrew Horne (EDINA, ISG, UoE) |
 |15:40 | **Research Software Engineering at EPCC**, Andy Turner change of speaker to Mario Antonioletti (EPCC, UoE) ([pdf](Slides/epcc-cerse.pdf)) |
