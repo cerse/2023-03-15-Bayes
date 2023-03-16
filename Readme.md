@@ -32,9 +32,7 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 ## Schedule
 
-Timetable for the day - unfortunately this coincided with a strike day so there were some necessary changes.
-
-
+Timetable for the day - unfortunately this event coincided with a strike day so there were some necessary changes.
 
 |Time  | Activity      |
 |------| ------|
@@ -51,3 +49,4 @@ Timetable for the day - unfortunately this coincided with a strike day so there 
 
 In order to get the correct numbers for catering please [register](https://www.eventbrite.co.uk/e/cerse-at-the-bayes-tickets-528334230907) for this event - limited to a max of 50 attendees. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
+![Group attendees photo at the end of the meeting.](images/cerse7-group.jpeg)
